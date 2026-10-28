@@ -1,0 +1,8 @@
+{
+  "name": "EcoTech PU — Campus Resource Intelligence Dashboard",
+  "description": "Presidency University Bengaluru resource intelligence platform for energy, water, and waste anomaly detection and prioritized sustainability actions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
